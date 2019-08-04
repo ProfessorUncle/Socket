@@ -1,3 +1,4 @@
 用python3运行 xxx.py
 python3：   打开 python3的交互模式
 ipython3：  比python3的交互模式高端的一种交互模式
+建议使用ipython3，可以使用命令行和自动补全

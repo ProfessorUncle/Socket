@@ -1,0 +1,3 @@
+用python3运行 xxx.py
+python3：   打开 python3的交互模式
+ipython3：  比python3的交互模式高端的一种交互模式
